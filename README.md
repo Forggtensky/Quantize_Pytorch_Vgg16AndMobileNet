@@ -3,6 +3,7 @@ Quantize,Pytorch,Vgg16,MobileNet
 
 ## Static Quantize And Aware training Quantize for VGG-16 and MobileNet-V2 
 
+**Pytorch版本要求**：1.4+
 
 **Note**：VGG-16中没有BN层，所以相较官方教程，去掉了fuse_model的融合部分
 
