@@ -15,7 +15,9 @@ Quantize,Pytorch,Vgg16,MobileNet
 --------model：文件夹，存储VGG-16以及MobieNet的pretrained_model预训练float型模型
 
 --------MobileNetV2-quantize_all.py：Static Quantize 和 QAT 两种方式
+
 --------vgg16-static_quantize.py：Static Quantize to Vgg-16
+
 --------vgg16-aware_train_quantize.py：QAT Quantize to Vgg-16
 
 **数据集与预训练模型下载**：链接：https://pan.baidu.com/s/1-Rkrcg0R5DbNdjQ4umXBtQ ；提取码：p2um 
