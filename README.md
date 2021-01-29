@@ -1,7 +1,7 @@
 # Quantize_Pytorch_Vgg16AndMobileNet
 Quantize,Pytorch,Vgg16,MobileNet
 
-## Code: Static Quantize And Aware training Quantize for VGG-16 and MobileNet-V2 
+## Static Quantize And Aware training Quantize for VGG-16 and MobileNet-V2 
 
 
 **Note**：VGG-16中没有BN层，所以相较官方教程，去掉了fuse_model的融合部分
